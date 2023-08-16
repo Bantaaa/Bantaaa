@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bantaaa&label=Profile%20views&color=0e75b6&style=flat" alt="bantaaa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@banx420" target="blank"><img src="https://img.shields.io/twitter/follow/@banx420?logo=twitter&style=for-the-badge" alt="@banx420" /></a> </p>
-
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/@banx420?logo=twitter&style=for-the-badge" alt="#" /></a> </p>
+"“The best day to start was probably yesterday, but today is the second best day to start”"
 - 🌱 I’m currently learning **the awesome world of JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://bantaaa.github.io/Banta-portfolio-v1/](https://bantaaa.github.io/Banta-portfolio-v1/)
