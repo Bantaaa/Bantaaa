@@ -3,10 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Banta</h1>
 <h3 align="center">A passionate Web development enthusiast from Morocco !</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
-
 
 <h3 align="center">“The best day to start was probably yesterday, but today is the second best day to start”</h3>
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 
 - 🌱 I’m currently learning **the awesome world of JavaScript**
