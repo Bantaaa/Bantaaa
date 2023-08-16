@@ -5,10 +5,10 @@
 <h3 align="center">A passionate Web development enthusiast from Morocco !</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bantaaa&label=Profile%20views&color=0e75b6&style=flat" alt="bantaaa" /> </p>
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/@banx420?logo=twitter&style=for-the-badge" alt="#" /></a> </p>
-"“The best day to start was probably yesterday, but today is the second best day to start”"
+<h3 align="center">“The best day to start was probably yesterday, but today is the second best day to start”</h3>
+
+
 - 🌱 I’m currently learning **the awesome world of JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://bantaaa.github.io/Banta-portfolio-v1/](https://bantaaa.github.io/Banta-portfolio-v1/)
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@banx420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@banx420" height="30" width="40" /></a>
+<a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="#" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/taha amnay allam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha amnay allam" height="30" width="40" /></a>
 <a href="https://instagram.com/tahaaa____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahaaa____" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/3nkqJJw2MA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3nkqJJw2MA" height="30" width="40" /></a>
