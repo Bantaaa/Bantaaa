@@ -1,7 +1,7 @@
 <img width="max" src="https://cdn.discordapp.com/attachments/932325203248295966/1140070231973318706/68747470733a2f2f696d616765732d7769786d702d6564333061383662386334636138383737373335393463322e7769786d702e636f6d2f662f63383363303034652d313337302d343735362d383865352d3430373164653739373038382f646672656467352d.gif">
 
 
-<h1 align="center">Hi 👋, I'm taha amanay allah</h1>
+<h1 align="center">Hi 👋, I'm Banta</h1>
 <h3 align="center">A passionate Web development enthusiast from Morocco !</h3>
 
 
