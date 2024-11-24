@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **the awesome world of JavaScript**
 
-  - 👨‍💻 This is my first ever html css project i'll be keeping it here to always track my progress [https://bantaaa.github.io/Banta-portfolio-v1/](https://bantaaa.github.io/Banta-portfolio-v1/)
-
 - 📫 How to reach me **Tahaamnayallam@gmail.com**
 
 - ⚡ Fun fact **I love Keyboards**
